@@ -1,0 +1,22 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.name1 {
+	width: 40px;
+	margin-bottom: 10px;
+}
+
+#top {
+	width: 200px;
+	margin: 100px auto;
+}
+
+.name2 {
+	width: 126px;
+	height: 40px;
+	border: 1px solid #cccccc;
+	line-height: 40px;
+	text-align: center;
+}

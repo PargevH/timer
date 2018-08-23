@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+select {
+	width: 50px;
+	margin-bottom: 10px;
+}
+
+button {
+	width: 50px;
+}
+
+#top {
+	width: 220px;
+	margin: 100px auto;
+}
+
+.name2 {
+	width: 210px;
+	height: 40px;
+	border: 1px solid #cccccc;
+	line-height: 40px;
+	text-align: center;
+}
